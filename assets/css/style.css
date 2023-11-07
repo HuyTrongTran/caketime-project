@@ -26072,3 +26072,11 @@ header .offcanvas-backdrop {
 .delivery-list .text-content{
   text-align: justify;
 }
+
+.container-fluid-lg h2,
+.container-fluid-lg h2 span{
+  font-family: "Poppins", sans-serif;
+}
+.container-fluid-lg h2 span{
+  color: var(--theme-color);
+}

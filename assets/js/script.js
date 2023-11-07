@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------------------
 
- Template Name: Fastkart
- Template URI: themes.pixelstrap.com/Fastkart
+ Template Name: Caketime
+ Template URI: themes.pixelstrap.com/Caketime
  Description: This is Ecommerce website
  Author: Pixelstrap
  Author URI: https://themeforest.net/user/pixelstrap
