@@ -269,7 +269,7 @@
   }
 }
 .alert .alert-success {
-  background: #39da8a !important;
+  background: #d99f46 !important;
   color: #fff !important;
   border: none;
 }
@@ -2740,7 +2740,7 @@ input[type="number"]::-webkit-outer-spin-button {
 .product-section-box .custom-nav .nav-item .nav-link:hover::after,
 .product-section-box .custom-nav .nav-item .nav-link.active::after {
   width: 100%;
-  background: #1aa488;
+  background: #ffb803;
 }
 .product-section-box .offer-table {
   margin-bottom: 0;
