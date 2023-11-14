@@ -1,5 +1,5 @@
 /*! DataTables 1.12.1
- * ©2008-2022 SpryMedia Ltd - datatables.net/license
+ * ©2008-2023 SpryMedia Ltd - datatables.net/license
  */
 
 /**
